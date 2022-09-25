@@ -17,6 +17,6 @@ permalink: /mods/
 
 | Name | Website | Download |
 | ---- | ------- | -------- |
-| [**OpenKneeboard**]({% link mods/okb.md %}) | [Website](https://github.com/OpenKneeboard/OpenKneeboard) | [1.2.2](https://github.com/OpenKneeboard/OpenKneeboard/releases/download/v1.2.2/OpenKneeboard-v1.2.2.msix) |
+| [**OpenKneeboard**]({{ site.baseurl }}{% link mods/okb.md %}) | [Website](https://github.com/OpenKneeboard/OpenKneeboard) | [1.2.2](https://github.com/OpenKneeboard/OpenKneeboard/releases/download/v1.2.2/OpenKneeboard-v1.2.2.msix) |
 | **Liberation** | [Website](https://github.com/dcs-liberation/dcs_liberation) | [5.2.0](https://github.com/dcs-liberation/dcs_liberation/releases/download/5.2.0/dcs_liberation.5.2.0.zip) |
 | **Briefing Room** | [Website](https://github.com/akaAgar/briefing-room-for-dcs) | [0.5.209.03](https://github.com/akaAgar/briefing-room-for-dcs/releases/download/beta-release-220903-1109/BriefingRoomV0-5-209-03.zip) |
