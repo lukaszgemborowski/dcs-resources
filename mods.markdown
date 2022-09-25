@@ -6,15 +6,15 @@ permalink: /mods/
 
 # Aircraft
 
-| Name            | Requirements        | Webiste  | Download |
-| --------------- | ------------------- | -------- | -------- |
-| **A-29B Super Tucano** | None | [Website](https://github.com/luizrenault/a-29b-community) | [0.5.0b](https://github.com/luizrenault/a-29b-community/archive/refs/tags/0.5.0b.zip) |
-| **A-4E-C** | None | [Website](https://github.com/heclak/community-a4e-c) | [v2.0.1](https://github.com/heclak/community-a4e-c/releases/download/v2.0.1/Community_A-4E-C_v2.0.1.zip) |
-| **F-22A Raptor** | F-15C / FC3 | [Website](https://grinnellidesigns.com/f22/) | [Updated 2-20-21](https://www.mediafire.com/file/d75yuv540r38qr4/Community_F-22A_Mod_Version_II.zip/file) |
-| **C-130J-30** | ??? | [Website](https://forum.dcs.world/topic/252075-dcs-super-hercules-mod-by-anubis/) | [V6.8.2](https://www.mediafire.com/file/y5qov91ds5gvofv/Hercules_ver_6.8.2.zip/file) |
-| **T-45 Goshawk** | ??? | [Website](https://forum.dcs.world/topic/203816-vnao-t-45-goshawk/) | [1.01](https://www.mediafire.com/file/igxeyo81nx1i01w/VNAO_T45_v1.0.1.zip/file) |
-| **OV-10A Bronco** | ??? | [Forum thread](https://forum.dcs.world/topic/307951-ov-10a-bronco-mod-by-split-air-teamand-more/) | [07.09.22 release](https://splitair.gumroad.com/l/fwzxn) |
-| **JAS-39-C Gripen** | ??? | [Website](https://github.com/whisky-actual/Community-JAS-39-C) | [v1.8.0-Beta](https://github.com/whisky-actual/Community-JAS-39-C/releases/download/v1.8.0-Beta/Community_JAS39_v1.8.0.zip) |
+| Name            | Requirements        | FM | Webiste  | Download |
+| --------------- | ------------------- | -- | -------- | -------- |
+| **A-29B Super Tucano** | None | SFM | [Website](https://github.com/luizrenault/a-29b-community) | [0.5.0b](https://github.com/luizrenault/a-29b-community/archive/refs/tags/0.5.0b.zip) |
+| **A-4E-C** | None | EFM | [Website](https://github.com/heclak/community-a4e-c) | [v2.0.1](https://github.com/heclak/community-a4e-c/releases/download/v2.0.1/Community_A-4E-C_v2.0.1.zip) |
+| **F-22A Raptor** | F-15C / FC3 | ??? | [Website](https://grinnellidesigns.com/f22/) | [Updated 2-20-21](https://www.mediafire.com/file/d75yuv540r38qr4/Community_F-22A_Mod_Version_II.zip/file) |
+| **C-130J-30** | ??? | EFM | [Website](https://forum.dcs.world/topic/252075-dcs-super-hercules-mod-by-anubis/) | [V6.8.2](https://www.mediafire.com/file/y5qov91ds5gvofv/Hercules_ver_6.8.2.zip/file) |
+| **T-45 Goshawk** | ??? | EFM |[Website](https://forum.dcs.world/topic/203816-vnao-t-45-goshawk/) | [1.01](https://www.mediafire.com/file/igxeyo81nx1i01w/VNAO_T45_v1.0.1.zip/file) |
+| **OV-10A Bronco** | None | EFM | [Forum thread](https://forum.dcs.world/topic/307951-ov-10a-bronco-mod-by-split-air-teamand-more/) | [07.09.22 release](https://splitair.gumroad.com/l/fwzxn) |
+| **JAS-39-C Gripen** | No (AG)/F-15C (AA) | SFM | [Website](https://github.com/whisky-actual/Community-JAS-39-C) | [v1.8.0-Beta](https://github.com/whisky-actual/Community-JAS-39-C/releases/download/v1.8.0-Beta/Community_JAS39_v1.8.0.zip) |
 
 # Other
 
