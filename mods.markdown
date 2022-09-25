@@ -13,6 +13,7 @@ permalink: /mods/
 | **F-22A Raptor** | F-15C / FC3 | [Website](https://grinnellidesigns.com/f22/) | [Updated 2-20-21](https://www.mediafire.com/file/d75yuv540r38qr4/Community_F-22A_Mod_Version_II.zip/file) |
 | **C-130J-30** | ??? | [Website](https://forum.dcs.world/topic/252075-dcs-super-hercules-mod-by-anubis/) | [V6.8.2](https://www.mediafire.com/file/y5qov91ds5gvofv/Hercules_ver_6.8.2.zip/file) |
 | **T-45 Goshawk** | ??? | [Website](https://forum.dcs.world/topic/203816-vnao-t-45-goshawk/) | [1.01](https://www.mediafire.com/file/igxeyo81nx1i01w/VNAO_T45_v1.0.1.zip/file) |
+| **OV-10A Bronco** | ??? | [Forum thread](https://forum.dcs.world/topic/307951-ov-10a-bronco-mod-by-split-air-teamand-more/) | [07.09.22 release](https://splitair.gumroad.com/l/fwzxn) |
 
 # Other
 
