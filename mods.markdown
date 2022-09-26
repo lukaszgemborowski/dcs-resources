@@ -19,6 +19,10 @@ permalink: /mods/
 | **F-104** | ??? | ??? | [Discord](https://discord.gg/gEVWrSb4gQ) | [F104_v2.7.11.222.01](https://filehorst.de/d/emyeFiEJ) |
 | **FMA IA 58 Pucará** | ??? | SFM | [Forum thread](https://forum.dcs.world/topic/276647-pucara-ia-58-fma-argentina-free-mod/) | [0.12b](https://github.com/PucaraPastrana/PucaraDCS/releases/download/v0.12b/MOD_DCS_PUCARA_BYPASTRANA_0.12b.rar) |
 | **F-16I Sufa** | F-16C | EFM? | [Discord](https://discord.com/invite/YDUecPFNAU) | [V2.1](https://www.mediafire.com/file/smjt2lfk9dyqzr4/F-16I_SUFA_V2.1.zip/file) |
+| **Su-57** | FC3(?) | EFM | [Website](https://discord.gg/erWqmQK) | [Build 03](https://drive.google.com/file/d/1t4PRNeyB6gaq0E2BCHx6x71GhpBZg-y_/view?usp=sharing) |
+| **Su-30** | Su-25(AG), Su-33(AA) | SFM | [Website](https://discord.com/invite/MPwTyjBtXG) | [v2.1.12 Beta](https://drive.google.com/file/d/1PDTt5gOYTZlFbRRAFAEnbm7LEld767O4/view?usp=sharing) |
+| **Eurofighter Typhoon** | Su-33 | SFM | [Website](https://forum.dcs.world/topic/290086-new-version-eurofighter-typhoon-by-lechuzas-negras-v1069/) | [v1.0.69](https://drive.google.com/file/d/1nPj-pHAu3QWB2Ue9nKu1e2GjIhNBhBBU/view?usp=sharing)
+
 
 # Other
 
@@ -29,3 +33,10 @@ permalink: /mods/
 | **Briefing Room** | [Website](https://github.com/akaAgar/briefing-room-for-dcs) | [0.5.209.03](https://github.com/akaAgar/briefing-room-for-dcs/releases/download/beta-release-220903-1109/BriefingRoomV0-5-209-03.zip) |
 | **3Dmigoto VR** | [Website](https://forum.dcs.world/topic/207154-3dmigoto-vr-mod-for-dcs-label-masking-color-enhancement-sharpen-fxaa-copypaste-of-radio-msg/) | [16.6.1](https://www.digitalcombatsimulator.com/en/files/3305420/) |
 | **DCSTheWay** | [Website](https://github.com/aronCiucu/DCSTheWay) | [v1.5.1](https://github.com/aronCiucu/DCSTheWay/releases/download/v1.5.1/TheWayV151.zip) |
+| **Clickable FC3** | [Website](https://discord.gg/4JjCtec6dH) | [v1.1.1a-beta](https://github.com/RedK0d/CLICKABLE-FC3/releases/tag/v1.1.1a-beta) |
+| **Echo One Niner Audio** | [Website](https://www.echo19audio.com/) | [Core, F-14, F-16, F-18](https://www.echo19audio.com/download-page) |
+| **DCS Scratchpad | [Website](https://github.com/rkusa/dcs-scratchpad) | [v0.6.0](https://github.com/rkusa/dcs-scratchpad/releases/tag/0.6.0) |
+| **DCS Input Commands Injector** | [Website](https://github.com/Quaggles/dcs-input-command-injector) | [v1.0.6](https://github.com/Quaggles/dcs-input-command-injector/releases/tag/1.0.6) |
+| **DCS Community Keybinds** | [Website](https://github.com/Munkwolf/dcs-community-keybinds) | [v22.7.23](https://github.com/Munkwolf/dcs-community-keybinds/releases/tag/22.7.23) |
+| **Simple Radio Standalone** | [Website](https://github.com/ciribob/DCS-SimpleRadioStandalone) | [v2.0.7.0](https://github.com/ciribob/DCS-SimpleRadioStandalone/releases/tag/2.0.7.0) |
+| **Vaicom Pro** | [Website](https://www.vaicompro.com/) | [Downloads](https://www.vaicompro.com/downloads.html) |
