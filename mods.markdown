@@ -15,6 +15,10 @@ permalink: /mods/
 | **T-45 Goshawk** | ??? | EFM |[Website](https://forum.dcs.world/topic/203816-vnao-t-45-goshawk/) | [1.01](https://www.mediafire.com/file/igxeyo81nx1i01w/VNAO_T45_v1.0.1.zip/file) |
 | **OV-10A Bronco** | None | EFM | [Forum thread](https://forum.dcs.world/topic/307951-ov-10a-bronco-mod-by-split-air-teamand-more/) | [07.09.22 release](https://splitair.gumroad.com/l/fwzxn) |
 | **JAS-39-C Gripen** | No (AG)/F-15C (AA) | SFM | [Website](https://github.com/whisky-actual/Community-JAS-39-C) | [v1.8.0-Beta](https://github.com/whisky-actual/Community-JAS-39-C/releases/download/v1.8.0-Beta/Community_JAS39_v1.8.0.zip) |
+| **UH-60L Black Hawk** | ??? | ??? | [Github](https://github.com/Kinkkujuustovoileipa/uh-60l)/[Forum](https://forum.dcs.world/topic/293813-uh-60l-black-hawk-mod-official-thread/) | [1.3](https://github.com/Kinkkujuustovoileipa/uh-60l/releases/download/1.3/UH-60L.1.3.1.zip) |
+| **F-104** | ??? | ??? | [Discord](https://discord.gg/gEVWrSb4gQ) | [F104_v2.7.11.222.01](https://filehorst.de/d/emyeFiEJ) |
+| **FMA IA 58 Pucará** | ??? | SFM | [Forum thread](https://forum.dcs.world/topic/276647-pucara-ia-58-fma-argentina-free-mod/) | [0.12b](https://github.com/PucaraPastrana/PucaraDCS/releases/download/v0.12b/MOD_DCS_PUCARA_BYPASTRANA_0.12b.rar) |
+| **F-16I Sufa** | F-16C | EFM? | [Discord](https://discord.com/invite/YDUecPFNAU) | [V2.1](https://www.mediafire.com/file/smjt2lfk9dyqzr4/F-16I_SUFA_V2.1.zip/file) |
 
 # Other
 
