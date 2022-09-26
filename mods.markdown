@@ -35,7 +35,7 @@ permalink: /mods/
 | **DCSTheWay** | [Website](https://github.com/aronCiucu/DCSTheWay) | [v1.5.1](https://github.com/aronCiucu/DCSTheWay/releases/download/v1.5.1/TheWayV151.zip) |
 | **Clickable FC3** | [Website](https://discord.gg/4JjCtec6dH) | [v1.1.1a-beta](https://github.com/RedK0d/CLICKABLE-FC3/releases/tag/v1.1.1a-beta) |
 | **Echo One Niner Audio** | [Website](https://www.echo19audio.com/) | [Core, F-14, F-16, F-18](https://www.echo19audio.com/download-page) |
-| **DCS Scratchpad | [Website](https://github.com/rkusa/dcs-scratchpad) | [v0.6.0](https://github.com/rkusa/dcs-scratchpad/releases/tag/0.6.0) |
+| **DCS Scratchpad** | [Website](https://github.com/rkusa/dcs-scratchpad) | [v0.6.0](https://github.com/rkusa/dcs-scratchpad/releases/tag/0.6.0) |
 | **DCS Input Commands Injector** | [Website](https://github.com/Quaggles/dcs-input-command-injector) | [v1.0.6](https://github.com/Quaggles/dcs-input-command-injector/releases/tag/1.0.6) |
 | **DCS Community Keybinds** | [Website](https://github.com/Munkwolf/dcs-community-keybinds) | [v22.7.23](https://github.com/Munkwolf/dcs-community-keybinds/releases/tag/22.7.23) |
 | **Simple Radio Standalone** | [Website](https://github.com/ciribob/DCS-SimpleRadioStandalone) | [v2.0.7.0](https://github.com/ciribob/DCS-SimpleRadioStandalone/releases/tag/2.0.7.0) |
