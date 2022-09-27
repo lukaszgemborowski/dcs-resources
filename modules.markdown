@@ -17,7 +17,7 @@ permalink: /modules/
 | **F-4E Phantom** | [Heatblur Simluations](https://store.heatblur.com/) | [Announced 25.01.2022](https://forum.dcs.world/topic/291775-announcing-the-f-4-phantom-for-dcs-world/) | - |
 | **Eurofighter Typhoon** | TrueGrit + [Heatblur Simluations](https://store.heatblur.com/) | [Announced 22.07.2021](https://www.facebook.com/heatblur/posts/-we-are-incredibly-proud-to-announce-that-dcs-eurofighter-and-truegrit-are-joini/1802616486592628/) | - |
 | **FMA IA-58A Pucara** | [Razbam Simulations](https://www.razbamsimulationsllc.com/) | [Announced 23.08.2018](https://stormbirds.blog/2018/08/23/razbam-shows-early-falklands-map-f-15e-seat-pucara-more/) | - |
-| **MiG-23MLA | [Razbam Simulations](https://www.razbamsimulationsllc.com/) | [Announced 19.06.2018](https://stormbirds.blog/2018/06/19/a-day-of-razbam-dcs-surprises/) | - |
+| **MiG-23MLA** | [Razbam Simulations](https://www.razbamsimulationsllc.com/) | [Announced 19.06.2018](https://stormbirds.blog/2018/06/19/a-day-of-razbam-dcs-surprises/) | - |
 | **F-15E Strike Eagle** | [Razbam Simulations](https://www.razbamsimulationsllc.com/) | [Announced 19.06.2018](https://stormbirds.blog/2018/06/19/a-day-of-razbam-dcs-surprises/) | - |
 | **A-29 Supertucano** | [Razbam Simulations](https://www.razbamsimulationsllc.com/) | ??? | - |
 | **Mirage F1** | [Aerges Engineering](http://aergesengineering.com/) | Early Access | [Link](https://www.digitalcombatsimulator.com/en/shop/modules/mirage/) |
