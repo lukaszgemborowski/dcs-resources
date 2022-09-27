@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "F-16I Sufa V2.2 release"
+date:   2022-09-27 21:10:00 +0200
+tags: F16I mod release
+---
+
+F-16I Sufa mod version V2.2 was just released. [Download](https://www.mediafire.com/file/bwm59v74l6n62dh/F-16I_SUFA_V2.2.zip/file).
+
+Added:
+
+ - F-16D bl50 without the spine
+ - F-16D bl52 without the spine
+
+Fixes:
+
+ - Fuel Qty Sel knob could be placed in between the “NORM” and “RSVR”
+ - F-16D Barak shows 120 chaff and flares in ME but 120 chaff 0 flares in game
+ - F2 camera too far from the F-16I Sufa
+ - F-16D bl52 has small 3D model next to the left wing
+ - F-16D bl52 Spine texture missing for some people
+ - F-16C CFT Fuel options missing
+ - F-16C 600Gal option missing
+ - TGP Crosshair is missing
+ - F-16D missing roughness textures files
+ - Sound is too loud in the backseat
+ - Livery folder for F-16D bl52
+ - HGU-55 Helmet 3D model visible in cockpit view
+ - HTS POD Disconnecting from the fuselage while flying
