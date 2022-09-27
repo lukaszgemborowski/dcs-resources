@@ -8,7 +8,7 @@ permalink: /mods/
 
 | Name            | Requirements        | FM | Webiste  | Download |
 | --------------- | ------------------- | -- | -------- | -------- |
-| **A-29B Super Tucano** | None | SFM | [Website](https://github.com/luizrenault/a-29b-community) | [0.5.0b](https://github.com/luizrenault/a-29b-community/archive/refs/tags/0.5.0b.zip) |
+| [**A-29B Super Tucano**]({{ site.baseurl }}{% link mods/a-29b.md %}) | None | SFM | [Website](https://github.com/luizrenault/a-29b-community) | [0.5.0b](https://github.com/luizrenault/a-29b-community/archive/refs/tags/0.5.0b.zip) |
 | **A-4E-C** | None | EFM | [Website](https://github.com/heclak/community-a4e-c) | [v2.0.1](https://github.com/heclak/community-a4e-c/releases/download/v2.0.1/Community_A-4E-C_v2.0.1.zip) |
 | **F-22A Raptor** | F-15C / FC3 | ??? | [Website](https://grinnellidesigns.com/f22/) | [Updated 2-20-21](https://www.mediafire.com/file/d75yuv540r38qr4/Community_F-22A_Mod_Version_II.zip/file) |
 | **C-130J-30** | ??? | EFM | [Website](https://forum.dcs.world/topic/252075-dcs-super-hercules-mod-by-anubis/) | [V6.8.2](https://www.mediafire.com/file/y5qov91ds5gvofv/Hercules_ver_6.8.2.zip/file) |
