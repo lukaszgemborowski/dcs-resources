@@ -18,7 +18,7 @@ permalink: /mods/
 | **UH-60L Black Hawk** | ??? | ??? | [Github](https://github.com/Kinkkujuustovoileipa/uh-60l)/[Forum](https://forum.dcs.world/topic/293813-uh-60l-black-hawk-mod-official-thread/) | [1.3](https://github.com/Kinkkujuustovoileipa/uh-60l/releases/download/1.3/UH-60L.1.3.1.zip) |
 | **F-104** | ??? | ??? | [Discord](https://discord.gg/gEVWrSb4gQ) | [F104_v2.7.11.222.01](https://filehorst.de/d/emyeFiEJ) |
 | **FMA IA 58 Pucará** | ??? | SFM | [Forum thread](https://forum.dcs.world/topic/276647-pucara-ia-58-fma-argentina-free-mod/) | [0.12b](https://github.com/PucaraPastrana/PucaraDCS/releases/download/v0.12b/MOD_DCS_PUCARA_BYPASTRANA_0.12b.rar) |
-| **F-16I Sufa** | F-16C | EFM? | [Discord](https://discord.com/invite/YDUecPFNAU) | [V2.1](https://www.mediafire.com/file/smjt2lfk9dyqzr4/F-16I_SUFA_V2.1.zip/file) |
+| **F-16I Sufa** | F-16C | EFM? | [Discord](https://discord.com/invite/YDUecPFNAU) | [V2.2](https://www.mediafire.com/file/bwm59v74l6n62dh/F-16I_SUFA_V2.2.zip/file) |
 | **Su-57** | FC3(?) | EFM | [Website](https://discord.gg/erWqmQK) | [Build 03](https://drive.google.com/file/d/1t4PRNeyB6gaq0E2BCHx6x71GhpBZg-y_/view?usp=sharing) |
 | **Su-30** | Su-25(AG), Su-33(AA) | SFM | [Website](https://discord.com/invite/MPwTyjBtXG) | [v2.1.12 Beta](https://drive.google.com/file/d/1PDTt5gOYTZlFbRRAFAEnbm7LEld767O4/view?usp=sharing) |
 | **Eurofighter Typhoon** | Su-33 | SFM | [Website](https://forum.dcs.world/topic/290086-new-version-eurofighter-typhoon-by-lechuzas-negras-v1069/) | [v1.0.69](https://drive.google.com/file/d/1nPj-pHAu3QWB2Ue9nKu1e2GjIhNBhBBU/view?usp=sharing)
